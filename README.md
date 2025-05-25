@@ -1,4 +1,4 @@
-# Linear-Model-Tree-Decision-Tree-with-Linear-Models-on-Leaves
+# Linear Model Tree Decision Tree with Linear Models on Leaves
 
 This repository contains the implementation of **Linear Model Trees**—a machine learning approach that enhances Decision Trees by incorporating Linear Models at the leaf nodes. This project was part of my diploma work with Kunsulu Karayeva at Suleyman Demirel University in 2022, supervised by Yernat Assylbekov.
 
